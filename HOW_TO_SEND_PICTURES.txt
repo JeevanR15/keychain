@@ -1,0 +1,37 @@
+HOW TO CHANGE WHAT YOUR KEYCHAIN SHOWS
+======================================
+
+1. Switch the keychain ON.
+   The screen says "Send me a picture!" for a few seconds.
+   A small Wi-Fi sign in the top-left corner means it's ready.
+
+2. On your phone, open Wi-Fi settings and join:
+      Network:  Keychain-Pet
+      Password: keychain123
+   If the phone says "no internet", choose "Stay connected" / "Keep".
+
+3. Open Chrome or Safari and go to:   192.168.4.1
+   (Sometimes the page pops up by itself right after joining.)
+
+4. You'll see the list of what the keychain plays (up to 50 things):
+   - "+ Add a picture": choose a photo, drag/zoom it, try Photo / Bold /
+     Outline, add a short message if you like, then "Send to keychain"
+   - under "Animation" you can make the picture move: Sway, Bob,
+     Sparkle, Hearts, Snow, Ripple, Heartbeat or Glitch. The preview
+     shows exactly how it will move.
+   - to change a picture's animation later, tap the small button
+     under it in the list (it shows its current animation)
+   - "+ Add an animation": bring back one of the animations
+   - arrows move things up and down; X removes them
+   - tap any item to show it on the keychain right now
+   - "Each one plays for" sets how long each item stays on screen
+
+Everything stays saved even when the keychain is switched off.
+
+IF IT DOESN'T WORK
+- Page won't open: turn OFF mobile data for a moment, then try again.
+- Photo picker won't open in the pop-up: open Chrome/Safari yourself and type 192.168.4.1
+- Wi-Fi sign is gone: to save battery, the Wi-Fi turns off after 1 minute if
+  nobody connects, or 2 minutes after you stop using the page.
+  Switch the keychain off and on again, and join within a minute.
+- Battery icon blinking: charge it with a USB-C cable.
